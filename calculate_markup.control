@@ -1,0 +1,5 @@
+# extension with function for calculate markup by linear interpolation
+comment = 'function for linear interpolation'
+default_version = '1.0'
+module_pathname = '$libdir/calculate_markup'
+relocatable = false
